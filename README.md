@@ -1,6 +1,6 @@
  Hi, I’m @Chege2004
-  I’m interested in devops learning and internship.
-   I’m currently learning devops certification at Moringa schol.
+  I’m interested in Devops learning and internship.
+   I’m currently learning Devops certification at Moringa school.
   I’m looking to collaborate on code building and developing my skills 
-  How to reach me chegemanassseh1@gmail.co
+  How to reach me chegemanassseh2@gmail.com
 
