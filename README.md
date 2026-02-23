@@ -1,24 +1,20 @@
-💫 About Me
+# Hi there 👋, I'm Manasseh Chege
 
-I’m a Software Engineer focused on building scalable and reliable applications across backend, frontend, and mobile. After completing my Software Engineering training, I’m now dedicated to refining my expertise and delivering production-ready solutions.
+💫 **Software Engineer** focused on scalable, reliable applications across backend, frontend, and mobile.  
 
-🧠 Expertise
+**🧠 Expertise:**  
+- Backend: Python, API design, system architecture, MySQL  
+- Frontend: React, JavaScript, HTML, CSS  
+- Mobile: React Native  
+- DevOps & Tools: Filament, deployment workflows, CI/CD pipelines  
 
-Backend: Python, API design, system architecture
+**🚀 Current Focus:**  
+- Refining engineering patterns and system design  
+- Shipping real-world projects  
+- Exploring modern development tools  
 
-Frontend: React, JavaScript, HTML, CSS
-
-Mobile: React Native
-
-Tools & DevOps: Filament, deployment workflows
-
-🚀 What I’m Doing
-
-Sharpening advanced engineering patterns, improving system design skills, and continuously shipping real-world projects.
-
-💬 I enjoy connecting with engineers, founders, and teams who value clean architecture, performance, and thoughtful product development. 
-
-
+💬 **Let's Connect:**  
+Open to collaboration, mentorship, and contributing to open-source projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Manasseh Chege](https://www.linkedin.com/in/manasseh-chege-946baa2a9/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsvLIZGUeT6iGWGfy3Ch33A%3D%3D) ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@Manasseh Chege](https://medium.com/@chegemanasseh2)) 
 
