@@ -11,7 +11,8 @@
 **🚀 Current Focus:**  
 - Refining engineering patterns and system design  
 - Shipping real-world projects  
-- Exploring modern development tools  
+- Exploring modern development tools
+- Devops specialization
 
 💬 **Let's Connect:**  
 Open to collaboration, mentorship, and contributing to open-source projects.
