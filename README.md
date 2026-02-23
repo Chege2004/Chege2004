@@ -1,5 +1,22 @@
-# 💫 About Me:
-I'm currently working on my backend skills<br>I'm looking forward to collaborating on coming up with solutions.<br>I'm looking for help with securing an internship and landing a job as well.<br>I'm currently learning computer science and pursuing a certification in software engineering at Moringa.<br>Ask me about frontend implementation skills be it html , css ,javascript , API and React.<br> 
+💫 About Me
+
+I’m a Software Engineer focused on building scalable and reliable applications across backend, frontend, and mobile. After completing my Software Engineering training, I’m now dedicated to refining my expertise and delivering production-ready solutions.
+
+🧠 Expertise
+
+Backend: Python, API design, system architecture
+
+Frontend: React, JavaScript, HTML, CSS
+
+Mobile: React Native
+
+Tools & DevOps: Filament, deployment workflows
+
+🚀 What I’m Doing
+
+Sharpening advanced engineering patterns, improving system design skills, and continuously shipping real-world projects.
+
+💬 I enjoy connecting with engineers, founders, and teams who value clean architecture, performance, and thoughtful product development. 
 
 
 ## 🌐 Socials:
