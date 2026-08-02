@@ -3,7 +3,7 @@
 💫 **Software Engineer** focused on scalable, reliable applications across backend, frontend, and mobile.  
 
 **🧠 Expertise:**  
-- Backend: Python, API design, system architecture, MySQL  
+- Backend: PHP, API design, system architecture, MySQL  
 - Frontend: React, JavaScript, HTML, CSS  
 - Mobile: React Native  
 - DevOps & Tools: Filament, deployment workflows, CI/CD pipelines  
